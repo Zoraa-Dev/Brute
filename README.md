@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/Author-Zoraa Dev-blue?style=flat-square" alt="Author Badge">
         <img src="https://img.shields.io/badge/Written%20In-Python-yellow?style=flat-square" alt="Python Badge">
         <img src="https://img.shields.io/badge/Open%20Source-Ya-Green?style=flat-square" alt="Open Source Badge">
-        <img src="https://img.shields.io/maintenance/no/2024" alt="Maintenance Badge">
+        <img src="https://img.shields.io/maintenance/no/2025" alt="Maintenance Badge">
     </p>
 </div>
 
