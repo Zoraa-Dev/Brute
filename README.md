@@ -21,15 +21,17 @@ Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan m
   ```
   $ pkg update -y && pkg upgrade -y
   $ pkg install python-pip
-  $ git clone https://github.com/Zoraa-Dev/Premium.git
-  $ cd Premium
-  $ python3.11 Run.py
+  $ git clone https://github.com/Zoraa-Dev/Zoraa-IGS.git
+  $ cd Zoraa-IGS
+  $ ls
+  $ python3.12 Main.py
   ```
   - **Running on Termux**
     ```
     $ cd
-    $ cd Premium
-    $ python3.11 Run.py
+    $ cd Zoraa-IGS
+    $ ls
+    $ python3.12 Main.py
     ```
 ## Screenshots
 ![FunPic_20240808](https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/IMG-20241003-WA0021.jpg)
@@ -38,7 +40,7 @@ Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan m
 Sebagai pengembang alat ini, penting untuk memahami bahwa penggunaan perangkat lunak ini sepenuhnya merupakan risiko Anda sendiri. Saya tidak bertanggung jawab atas hasil apa pun, baik yang disengaja maupun tidak, yang mungkin timbul dari penggunaan alat ini. Pastikan Anda menggunakannya secara bertanggung jawab dan sesuai dengan hukum dan peraturan yang berlaku. Selalu berhati-hati dan buat keputusan yang tepat untuk menghindari potensi masalah.
 
 ## License
-Proyek ini bukan sumber terbuka. Semua hak atas kode sumber dilindungi oleh pengembang. Pengguna diberi akses untuk menggunakan alat tersebut tetapi tidak memiliki hak untuk mengubah, mendistribusikan, atau menjual kembali kode sumber. Untuk keterangan lebih lanjut, silakan lihat berkas [LICENSE](https://github.com/Zoraa-Dev/IGS-Zoraa) file.
+Proyek ini bukan sumber terbuka. Semua hak atas kode sumber dilindungi oleh pengembang. Pengguna diberi akses untuk menggunakan alat tersebut tetapi tidak memiliki hak untuk mengubah, mendistribusikan, atau menjual kembali kode sumber. Untuk keterangan lebih lanjut, silakan lihat berkas [LICENSE](https://github.com/Zoraa-Dev/Zoraa-IGS) file.
 
 ##
 ~~~python
