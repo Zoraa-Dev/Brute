@@ -15,16 +15,6 @@
 
 Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan metode bypass penyematan SSL untuk Instagram dan versi API terbaru, yang memungkinkan login via cookies atau via username dan password. Pendekatan ini membantu mencegah Instagram mendeteksi dan memblokir spam.
 
-<details>
-    <summary>fitures instagram</summary>
-    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-22-23-31-36-765_com.termux.jpg" alt="Premium Features 1">
-</details>
-
-<details>
-    <summary>fitures facebook</summary>
-    <img src="https://github.com/Zoraa-Dev/Premium/blob/main/Penyimpanan/Screenshoot/Screenshot_2024-10-22-23-20-16-537_com.termux.jpg" alt="Premium Features 2">
-</details>
-
 ## Installation
 
 - **Terminal - [Termux](https://drive.google.com/file/d/17ULiEz8qnvMs9wZ_yY_oYhk4kfOHE1mR/view?usp=sharing)**
