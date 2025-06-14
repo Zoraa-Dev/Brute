@@ -22,14 +22,14 @@ Program ini dikembangkan menggunakan SSL. Program ini dikembangkan menggunakan m
   $ pkg update -y && pkg upgrade -y
   $ pkg install python-pip
   $ git clone https://github.com/Zoraa-Dev/Zoraa-IGS.git
-  $ cd Zoraa-IGS
+  $ cd Brute
   $ ls
   $ python3.12 Main.py
   ```
   - **Running on Termux**
     ```
     $ cd
-    $ cd Zoraa-IGS
+    $ cd Brute
     $ ls
     $ python3.12 Main.py
     ```
